@@ -1,0 +1,12 @@
+# requirements.txt
+
+PyMuPDF
+python-docx
+openai
+langchain
+chainlit
+langchain-community
+langchain_openai
+chromadb
+tiktoken
+python-dotenv
