@@ -8,9 +8,6 @@ This repository contains a Chainlit application deployed to an AWS EC2 instance 
 - [Setup Instructions](#setup-instructions)
 - [Running Locally](#running-locally)
 - [Deployment](#deployment)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
